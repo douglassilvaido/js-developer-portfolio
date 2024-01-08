@@ -1,6 +1,6 @@
 {
   "name": "Douglas Silva",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "photo": "https://avatars.githubusercontent.com/u/117125295?v=4",
   "job": "junior developer",
   "location": "Uberlândia - MG",
   "phone": "(34) 9 99247948",
@@ -18,7 +18,7 @@
       {
         "name": "CSS",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
-      }
+      },
       {
         "name": "JavaScript",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
@@ -35,7 +35,7 @@
   "languages": [
     "Português BR",
     "Inglês (iniciante)",
-    "Espanhol (iniciante)",
+    "Espanhol (iniciante)"
   ],
   "portfolio": [
     {
